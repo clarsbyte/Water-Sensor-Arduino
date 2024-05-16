@@ -1,4 +1,4 @@
-# Water-Sensor-Arduino
+# Water Sensor Arduino Project
 A simple school project based on the Arduino UNO and a water sensor. The aim of this project is to notify people from certain geographical areas that experience floods frequently.
 
 ## Items needed:
