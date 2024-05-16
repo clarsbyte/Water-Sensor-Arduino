@@ -18,6 +18,7 @@ void loop() {
   Serial.print(sensorValue);
   Serial.print("\n");
   delay(2);
+  // conditionals untuk determine kalau lebih dari interval atau kurang dari interval lalu execute
   if((sensorValue>=100)&&(sensorValue<=420)){
     digitalWrite(2,HIGH);
     delay(100);
